@@ -7,7 +7,7 @@ Welcome to the Online Task Management System, a comprehensive web application de
 
 
 TECH:-
-Web Server (e.g., Apache, Nginx)
+Web Server (xampp)
 PHP
 MySQL
 
